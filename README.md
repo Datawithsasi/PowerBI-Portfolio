@@ -37,7 +37,7 @@ Hi! I'm Sasi, a Business Intelligence Developer passionate about turning data in
 ## 📬 Connect with Me
 
 - Email: sasi.tab@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/sasikala-nandha-kishore-541437232/)  
+- LinkedIn: [linkedin.com/in/your-link][https://linkedin.com/in/your-link](https://www.linkedin.com/in/sasikala-nandha-kishore-541437232/)  
 
 ---
 
